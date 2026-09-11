@@ -48,14 +48,13 @@ npm install @tensorflow/tfjs @tensorflow-models/coco-ssd]
 For Software:
 
 # Screenshots (Add at least 3)
-![<img width="1080" height="1440" alt="WhatsApp Image 2026-09-12 at 4 25 11 AM" src="https://github.com/user-attachments/assets/9086800a-dbeb-4d59-b8c7-9db750b85e81" />
-*This picture shows the code in java script
-*
+![<img width="1352" height="805" alt="image" src="https://github.com/user-attachments/assets/1ba7f424-c8fb-4d5a-beab-f6e837fe7bc8" />]
+**
 
-![<img width="1080" height="1440" alt="WhatsApp Image 2026-09-12 at 4 25 12 AM" src="https://github.com/user-attachments/assets/07acba03-a9ed-4b0e-9af6-47d350466dc7" />]
-*This picture shows code in cascading style sheet*
+![<img width="1166" height="686" alt="image" src="https://github.com/user-attachments/assets/70c2149b-04f5-499c-80e1-21f45d8670e4" />]
+**
 
-![Screenshot3](Add screenshot 3 here with proper name)
+![<img width="1101" height="792" alt="image" src="https://github.com/user-attachments/assets/705fb490-06ef-47c1-a380-d34e28a4702c" />]
 *Add caption explaining what this shows*
 
 # Diagrams
