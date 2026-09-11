@@ -49,13 +49,12 @@ For Software:
 
 # Screenshots (Add at least 3)
 ![<img width="1352" height="805" alt="image" src="https://github.com/user-attachments/assets/1ba7f424-c8fb-4d5a-beab-f6e837fe7bc8" />]
-**
+
 
 ![<img width="1166" height="686" alt="image" src="https://github.com/user-attachments/assets/70c2149b-04f5-499c-80e1-21f45d8670e4" />]
-**
+
 
 ![<img width="1101" height="792" alt="image" src="https://github.com/user-attachments/assets/705fb490-06ef-47c1-a380-d34e28a4702c" />]
-*Add caption explaining what this shows*
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
