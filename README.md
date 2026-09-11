@@ -2,34 +2,33 @@
 
 
 
-# [Project Name] 🎯
+# [soulcam] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [core & concrete]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Vismay Rakesh] - [Sree Narayana Guru Collage of Engineering and Technology,Chalakode]
+- Member 2: [Vaishnav Santhosh] - [Sree Narayana Guru Collage of Engineering and Technology,Chalakode]
 
 ### Project Description
-[2-3 lines about what your project does]
+[An AI-powered camera project that identifies objects and analyzes their condition or “emotion” in real time. It displays the detected object and its analysis clearly, creating a fun way to give personality to everyday things.]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[Giving everyday lifeless objects their own emotions and personality. The camera identifies an object and imagines how it might be feeling based on its appearance and condition.]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[An AI camera that gives lifeless objects emotions and personalities by analyzing them in real time. Because apparently, even a brick needs to know how it feels.]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [Java,HTML,CSS]
+- [HTML,CSS,javaScript,AI/Computer Vision,Web APIs]
+- [TensorFlow.js,COCO-SSD,Font Awesome,Web APIs]
+- [VS Code, Web Browser ,Laptop Camera/Webcam ,Developer Tools]
 
 For Hardware:
 - [List main components]
@@ -39,20 +38,22 @@ For Hardware:
 ### Implementation
 For Software:
 # Installation
-[commands]
+[npm init -y
+npm install @tensorflow/tfjs @tensorflow-models/coco-ssd]
 
 # Run
-[commands]
+[npx live-server]
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![<img width="1080" height="1440" alt="WhatsApp Image 2026-09-12 at 4 25 11 AM" src="https://github.com/user-attachments/assets/9086800a-dbeb-4d59-b8c7-9db750b85e81" />
+*This picture shows the code in java script
+*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![<img width="1080" height="1440" alt="WhatsApp Image 2026-09-12 at 4 25 12 AM" src="https://github.com/user-attachments/assets/07acba03-a9ed-4b0e-9af6-47d350466dc7" />]
+*This picture shows code in cascading style sheet*
 
 ![Screenshot3](Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
@@ -89,9 +90,8 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Vismay Rakesh]: [He gave the idea]
+- [Vaishnav Santhosh]: [Wrote all the code and created new idea]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
